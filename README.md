@@ -1,2 +1,2 @@
-# RevLP41
+# Rev41LP
 Low profile version of the Reviung41
